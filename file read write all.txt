@@ -1,0 +1,5 @@
+https://github.com/abhaylad14/Android-Sem7-all-in-one/blob/main/app/src/main/java/com/example/activitylifecycledemo/FileActivity.java
+
+https://github.com/abhaylad14/Android-Sem7-all-in-one/blob/main/app/src/main/res/layout/activity_file.xml
+
+https://github.com/abhaylad14/Android-Sem7-all-in-one/blob/main/app/src/main/AndroidManifest.xml
